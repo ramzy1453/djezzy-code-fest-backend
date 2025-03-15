@@ -6,6 +6,7 @@ export interface IUser {
   name: string;
   email: string;
   password: string;
+  role: UserRoleEnum;
   createdAt: Date;
   updatedAt: Date;
 }
