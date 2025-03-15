@@ -1,8 +1,32 @@
-# Matarmihach
+# 🚀 Zaytoun - Djezzy Code Fest Submission
 
-## Overview
+## 🏆 Team Name
 
-This is the backend API for our web application, built using **Express.js** for handling requests efficiently. The API includes user management, restaurant handling, food tracking, and organization management, with **cookie-based authentication**.
+**Zaytoun**
+
+## 📖 Project Description
+
+Algeria, like many other countries, faces a significant food waste crisis. Despite food insecurity affecting parts of the population, large quantities of edible food go to waste due to:
+
+- Inefficient food distribution between suppliers, restaurants, and consumers.
+- Lack of awareness about food conservation and sustainable consumption.
+- Surplus food in supermarkets and restaurants that is discarded instead of redistributed.
+
+Our web application gives solution to that.
+
+We build a secure and efficient authentication system built using **Node.js, Express, MongoDB, and JWT**.
+It provides **user registration and login functionality** with strong password hashing using **Bcrypt**.
+The project ensures **secure authentication** while maintaining a simple and lightweight database design.
+
+## 🎥 Presentation
+
+[Video Demo](https://youtu.be/4kZbRFl7TOE)
+
+---
+
+## 💻 Codebase Repositories
+
+- **Frontend:** [djezzy-code-fest-front](https://github.com/ramzy1453/djezzy-code-fest-front)
 
 ## Tech Stack
 
